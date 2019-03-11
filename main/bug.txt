@@ -1,0 +1,6 @@
+bug1----->注册的时候无法判断用户名字是否已经存在
+bug2----->成功登陆在退出的时候，终端依然没有正常退出xxxxxxxxxxxx
+bug3----->send_server没有采用IO多路复用模式（可以不修改)xxxxxxxxx
+Bug4---->注册成功后，注册界面不能自动销毁
+bug5---->游戏功能没有补全xxxxxxxxxxxxxxxx
+bug6---->密码暗文显示没有做xxxxxxxxxxxxxxx
